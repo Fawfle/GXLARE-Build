@@ -1,0 +1,7 @@
+Set > Content-Encoding > gzip > Only on successes > URI = /Build/GMTK 2024 Build.data.gz
+
+Set > Content-Encoding > gzip > Only on successes > URI = /Build/GMTK 2024 Build.wasm.gz
+
+Set > Content-Type > application/wasm > Only on successes > URI = /Build/GMTK 2024 Build.wasm.gz
+
+Set > Content-Encoding > gzip > Only on successes > URI = /Build/GMTK 2024 Build.framework.js.gz
